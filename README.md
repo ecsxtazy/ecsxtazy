@@ -5,7 +5,6 @@
 
 Building scalable backend services with **Go**, **Gin**, and **PostgreSQL**.  
 Clean architecture • Simplicity • Performance
-Hate Microsoft, love Linux
 
 ---
 
