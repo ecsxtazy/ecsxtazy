@@ -1,5 +1,5 @@
 # Irakli Kochiashvili
-> **ecsxtazy** • Golang Backend Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1005&color=00ADD8&center=false&vCenter=true&width=435&lines=ecsxtazy+•+Go+Backend+Developer)](https://git.io/typing-svg)
 
 🎓 **Central University student** — *Mathematics & Computer Science, Software Engineering Track*
 
