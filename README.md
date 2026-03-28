@@ -6,6 +6,8 @@
 Building scalable backend services with **Go**, **Gin**, and **PostgreSQL**.  
 Clean architecture • Simplicity • Performance
 
+🎨 **Arch Hyprland enjoyer** — tiling windows, ricing, and terminal-first workflow.
+
 ---
 
 ### 🛠 Stack
@@ -16,6 +18,7 @@ Clean architecture • Simplicity • Performance
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58C4DC?style=flat&logo=hyprland&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
