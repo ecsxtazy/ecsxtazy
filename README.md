@@ -1,5 +1,5 @@
 # Irakli Kochiashvili
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1005&color=00ADD8&center=false&vCenter=true&width=435&lines=ecsxtazy+•+Go+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=false&vCenter=true&repeat=true&width=550&lines=ecsxtazy+•+C%2B%2B%2FGo+Backend+Developer;ecsxtazy+•+Backend+Developer+(C%2B%2B%2FGo);ecsxtazy+•+Go+%26+C%2B%2B+Backend+Engineer;ecsxtazy+•+C%2B%2B%2FGo+Backend+Developer)](https://git.io/typing-svg)
 
 🎓 **Central University student** — *Mathematics & Computer Science, Software Engineering Track*
 
