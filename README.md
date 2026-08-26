@@ -3,7 +3,7 @@
 
 🎓 **Central University student** — *Mathematics & Computer Science, Software Engineering Track*
 
-Building fullstack applications with **Go** (Gin/Fiber) backend and **React** + **TypeScript** frontend.  
+Building fullstack applications with **Go** backend and **React** + **TypeScript** frontend.  
 Clean architecture • Type safety • Modern UI/UX
 
 🎨 **Arch Hyprland enjoyer** — tiling windows, ricing, and terminal-first workflow.
@@ -14,8 +14,6 @@ Clean architecture • Type safety • Modern UI/UX
 
 **Backend:**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-000000?style=flat&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -31,7 +29,11 @@ Clean architecture • Type safety • Modern UI/UX
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+### 🧩 LeetCode
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Excstazy?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/Excstazy/)
+
+---
 ### 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ecsxtazy-181717?style=flat&logo=github)](https://github.com/ecsxtazy)
